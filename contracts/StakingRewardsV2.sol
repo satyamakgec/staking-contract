@@ -9,7 +9,7 @@ import {Ownable} from "./lib/Ownable.sol";
 import {FullMath} from "./lib/FullMath.sol";
 
 /// @title StakingRewardsV2
-/// @author zefram.eth
+/// @author bakii.eth
 /// @notice A modern, gas optimized staking pool contract for rewarding ERC20 stakers
 /// with ERC20 tokens periodically and continuously
 contract StakingRewardsV2 is Ownable {
